@@ -3,7 +3,7 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">My name's Matheus Mello, and I have 17 years old.</p> 
+<p align="center">My name's Matheus Mello, and I have 18 years old.</p> 
 <p align="center">I started studying to become a full stack developer in 2021 (still no intentions of moving forward with a programming career), but as soon as I realized everything that programming encompasses, I started to enjoy programming and seeing all the results of the work.
 Now in 2022 I'm more focused on JavaScript, Java, React Native and Vue.js</p>
 
