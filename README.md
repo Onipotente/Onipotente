@@ -8,7 +8,7 @@
 Now in 2022 I'm more focused on JavaScript, Java, React Native and Vue.js</p>
 
 * 🌍  I'm based in Brasil - SC
-* 🖥️  See my portfolio at [My portfolio (in building)](http://portfolio-matheusthebest.netlify.app/)
+* 🖥️  See my portfolio at [My portfolio (in building)]([http://portfolio-matheusthebest.netlify.app](https://portfolio-matheus.netlify.app)/)
 * ✉️  You can contact me at [mello.matheus3012@gmail.com](mailto:mello.matheus3012@gmail.com)
 * 🧠  I'm learning HTML5, CSS3, JavaScript, Java and React Native.
 
