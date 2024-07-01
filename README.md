@@ -3,14 +3,14 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">My name's Matheus Mello, and I have 18 years old.</p> 
+<p align="center">My name's Matheus Mello, and I have 19 years old.</p> 
 <p align="center">I started studying to become a full stack developer in 2021 (still no intentions of moving forward with a programming career), but as soon as I realized everything that programming encompasses, I started to enjoy programming and seeing all the results of the work.
-Now in 2023 I'm more focused on JavaScript, Java, React Native and Vue.js</p>
+Now in 2024 I'm more focused on JavaScript, TypeScript, Java and Node.js</p>
 
 * 🌍  I'm based in Brasil - SC
 * 🖥️  See my portfolio at [My portfolio (in building)]([http://portfolio-matheusthebest.netlify.app](https://portfolio-matheus.netlify.app)/)
 * ✉️  You can contact me at [mello.matheus3012@gmail.com](mailto:mello.matheus3012@gmail.com)
-* 🧠  I'm learning HTML5, CSS3, JavaScript, Java and React Native.
+* 🧠  I'm learning TypeScript, MongoDB, Node.js and Express.
 
 <a href="https://www.github.com/Onipotente" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Onipotente?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
